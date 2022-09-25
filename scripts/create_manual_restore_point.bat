@@ -1,0 +1,1 @@
+wmic.exe /Namespace:\\root\default Path SystemRestore Call CreateRestorePoint "Manual Restore Point (with AHK)", 100, 12
